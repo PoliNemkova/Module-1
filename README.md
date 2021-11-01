@@ -1,4 +1,4 @@
-# MiniTorch Module 1
+# MiniTorch Module 1  
 
 <img src="https://minitorch.github.io/_images/match.png" width="100px">
 
@@ -6,6 +6,16 @@
 
 * Overview: https://minitorch.github.io/module1.html
 
-This assignment requires the following files from the previous assignments.
+This module requires `operators.py` and `module.py` from Module 0
 
-        minitorch/operators.py minitorch/module.py tests/test_module.py tests/test_operators.py project/run_manual.py
+```
+cp ../Module-0/operators.py ../Module-0/module.py minitorch/
+```
+
+
+* Tests:
+
+```
+python run_tests.py
+```
+
